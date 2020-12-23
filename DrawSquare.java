@@ -20,7 +20,7 @@ class AdvancedRobotA extends Robot
     }
 }
 
-public class DrawSquare
+public class DrawSquare extends Object
 {
     public static void main(String[] args)
     {
